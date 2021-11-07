@@ -4,4 +4,4 @@
 ### 
 ## Round Robin  
 ## FCFS
-### Languages : JAVA
+### Programming Languages : JAVA
