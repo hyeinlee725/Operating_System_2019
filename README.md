@@ -1,4 +1,3 @@
 # Operating_System_2019
-## Round Robin  
-## FCFS
+## Round Robin & FCFS
 ### Programming Languages : JAVA
